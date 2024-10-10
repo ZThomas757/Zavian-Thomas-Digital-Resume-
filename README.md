@@ -1,0 +1,1 @@
+My name is Zavian Thomas and I am an electrical engineer at Mississippi State University. I have a strong interest in the power industry including power generation, transmission, and distribution. I also have an interest in predictive maintenance technologies and strategies such as vibration monitoring, thermography, and current & voltage signature analysis.
